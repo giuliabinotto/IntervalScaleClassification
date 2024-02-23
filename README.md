@@ -16,7 +16,7 @@ Es pot especificar que hi ha a cada fitxer.
 ## How to run simulations
 
 ## References
-
+$\int_0^1 xdx$
 
 
 
