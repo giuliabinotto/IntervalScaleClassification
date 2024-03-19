@@ -9,7 +9,8 @@ Explicar que és això: que fan els fitxers, article de referència...
 
 ## Requirements
 
-To create the graphs in BD_OC_Simulations.R, the following libraries are needed: ggplot, reshape2, latex2exp, RColorBrewer and viridis. 
+To create the graphs in BD_OC_Simulations.R, the following libraries are needed: ggplot, reshape2, latex2exp and viridis.
+To create the graphs in BD_OC_Examples.R, the following libraries are needed: ggplot and latex2exp.
 
 
 Versió mínima de R, llibreries...
