@@ -6,7 +6,7 @@ In the field of supervised machine learning, the precise evaluation of classific
 
 ## Requirements
 
-To create the graphs in BD_OC_Simulations.R, the following libraries are needed: ggplot, reshape2, latex2exp and viridis.
-To create the graphs in BD_OC_Examples.R, the following libraries are needed: ggplot and latex2exp.
+To create the graphs in Simulations.R, the following libraries are needed: ggplot, reshape2, latex2exp and viridis.
+To create the graphs in Examples.R, the following libraries are needed: ggplot and latex2exp.
 
 
