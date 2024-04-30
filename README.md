@@ -11,5 +11,5 @@ To create the graphs in Examples.R, the following libraries are needed: ggplot a
 
 
 ## Authors
-Giulia Binotto & Rosario Delgado (Universitat Autònoma de Barcelona, Spain)
+Giulia Binotto & Rosario Delgado (Universitat Autònoma de Barcelona, Spain).
 
