@@ -10,3 +10,6 @@ To create the graphs in Simulations.R, the following libraries are needed: ggplo
 To create the graphs in Examples.R, the following libraries are needed: ggplot and latex2exp.
 
 
+## Authors
+Giulia Binotto & Rosario Delgado (Universitat Autònoma de Barcelona, Spain)
+
