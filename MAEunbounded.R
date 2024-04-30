@@ -17,8 +17,8 @@ source("BD_OC_MAEintervals.R")
 
 ### Functions
 
-## MAEmax.unbounded: Interval scale Total misclassification Cost with unbounded rightmost class
-# Given a confusion matrix C and a vector of interval lengths L (excluding the length of the last interval), the function returns the Total misclassification Cost of C.
+## MAEmax.unbounded: Interval scale Mean Absolute Error (MAE) with unbounded rightmost class
+# Given a confusion matrix C and a vector of interval lengths L (excluding the length of the last interval), the function returns the MAE of C.
 # Lmin and Lmax represent the extremes of the interval in which to look for the minimum.
 # eps represents the length of the grid used to evaluate the function and generate its plot.
 MAEmax.unbounded <- function(C, L, Lmin = 0.0001, Lmax, eps) {
@@ -51,8 +51,8 @@ MAEmax.unbounded <- function(C, L, Lmin = 0.0001, Lmax, eps) {
 }
 
 
-## SMAE.unbounded: Interval scale Standard Total misclassification Cost with unbounded rightmost class
-# Given a confusion matrix C and a vector of interval lengths L (excluding the length of the last interval), the function returns the Standard Total misclassification Cost of C.
+## SMAE.unbounded: Interval scale Standard MAE with unbounded rightmost class
+# Given a confusion matrix C and a vector of interval lengths L (excluding the length of the last interval), the function returns the Standard MAE of C.
 # Lmin and Lmax represent the extremes of the interval in which to look for the minimum.
 # eps represents the length of the grid used to evaluate the function and generate its plot.
 SMAE.unbounded <- function(C, L, Lmin = 0.0001, Lmax, eps) {
