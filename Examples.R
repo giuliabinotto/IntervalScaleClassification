@@ -1,7 +1,9 @@
 #########################################################
 ####### Ordinal and interval scale classification #######
 ################### Training examples ###################
-##########################################################
+#########################################################
+############### G. Binotto and R. Delgado ###############
+#########################################################
 
 
 ### Libraries
@@ -9,12 +11,12 @@ library(ggplot2)
 library(latex2exp)
 
 ### Sources
-source("BD_OC_MAE.R")
-source("BD_OC_MAEintervals.R")
-source("BD_OC_MAEunbounded.R")
-source("BD_OC_TC.R")
-source("BD_OC_TCintervals.R")
-source("BD_OC_TCunbounded.R")
+source("MAE.R")
+source("MAEintervals.R")
+source("MAEunbounded.R")
+source("TC.R")
+source("TCintervals.R")
+source("TCunbounded.R")
 
 
 ### Matrices
