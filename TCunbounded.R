@@ -12,7 +12,7 @@
 
 
 ### Sources for functions
-source("BD_OC_TCintervals.R")
+source("TCintervals.R")
 
 
 ### Functions
