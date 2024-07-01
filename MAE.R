@@ -2,6 +2,8 @@
 ################# Ordinal classification #################
 ###################### MAE Measure #######################
 ##########################################################
+################ G. Binotto and R. Delgado ###############
+##########################################################
 
 ### Arguments and notation
 # C             = (matrix) Confusion matrix obtained by a validation procedure
